@@ -1,0 +1,51 @@
+.header
+{
+    font-size: 55px;
+    box-shadow:8px 8px 32px grey;
+    font-variant: small-caps;
+    background-color: red;
+}
+.header2
+{
+    background-color: orange;
+    font-size: 50px;
+    letter-spacing: 0.5px;
+    color: black;
+    width: 500px;
+    height: 55px;
+}
+#btn
+{
+    background-color: silver;
+    text-align: center;
+    width:fit-content;
+    font-weight: 900;
+    font-size: 20px;
+    color: blue;
+}
+.img
+{
+    width:300px;
+}
+.footer
+{
+    font-size: 30px;
+}
+#footer
+{
+    background-color: black;
+    color: white;
+    position:fixed;
+    bottom: 0px;
+    width: 100%;
+    margin-top: 100px;
+}
+body
+{
+    background-image: url("background.jpg");
+}
+#h1
+{
+    background-color: white;
+    font-size: 40px;
+}
